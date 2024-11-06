@@ -1,4 +1,4 @@
-# About Dataset
+# LITA CAPISTONE RETAIL STORE SALES DATA ANALYSIS PROJECT
 
 Welcome to the **Lita Capistone Retail Store Sales Data Analysis Project**. This repository contains an analysis of sales data using SQL and Excel, with a focus on uncovering valuable business insights. Ideal for data analysts, this project showcases SQL queries and Excel dashboards to analyze customer trends, product performance, and revenue growth.
 
