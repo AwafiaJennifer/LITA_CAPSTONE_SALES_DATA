@@ -1,8 +1,8 @@
 # LITA CAPSTONE PROJECT
 
-##Project Title: Data_Analysis_of_a_Retail_Sales_Store
+## Project Title: Data_Analysis_of_a_Retail_Sales_Store
 
-##Project Overview
+## Project Overview
 
 Welcome to my Retail Sales Data Analysis project. This report details the analysis of a sales store that was given to me by LITA. With the aim to uncover valuable insights from retail sales data, By leveraging analytic Techniques and Vitualizations. This Project will highlight trends,identify key performance indicators and so on.Join me on this journey to transform this raw data into meaningful insights
 
@@ -11,15 +11,12 @@ Welcome to my Retail Sales Data Analysis project. This report details the analys
 This retail store interested in understanding its sales performance. With the use of 3 analytic tools to analyze the sales data.
 
 ## Tools used 
-*SQL*
-Used for Querying data to derive key insight
+-SQL:Used for Querying data to derive key insight
 
-*Excel*
-Used for cleaning and formatting,Claculating Matrics
-Used for Inpection and Handling Duplicates
+-Excel:Used for cleaning and formatting,Claculating Matrics
+       Used for Inpection and Handling Duplicates
 
-*PowerBI*
-Used for creating an interactive dashboard to visualize the insights
+-PowerBI:Used for creating an interactive dashboard to visualize the insights
 
  this project provides insights into:
 - Customer behavior
