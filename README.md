@@ -1,15 +1,27 @@
-# LITA CAPSTONE PROJECT_SALES DATA 
+# LITA CAPSTONE PROJECT
 
-Welcome, This report details the analysis of a sales store. This repository contains an analysis of sales data using SQL and Excel,and power with the objective of uncovering valuable business insights. Ideal for data analysts, this project showcases SQL queries and Excel dashboards to analyze customer trends and PowerBI for Data Visualizaton, product performance, and revenue growth.
+##Project Title: Data_Analysis_of_a_Retail_Sales_Store
+
+##Project Overview
+
+Welcome to my Retail Sales Data Analysis project. This report details the analysis of a sales store that was given to me by LITA. With the aim to uncover valuable insights from retail sales data, By leveraging analytic Techniques and Vitualizations. This Project will highlight trends,identify key performance indicators and so on.Join me on this journey to transform this raw data into meaningful insights
 
 ## Introduction
 
-Lita Capstone is a retail store interested in understanding its sales performance. The goal of this project is to analyze sales data using:
-- **SQL** for data manipulation
-- **Excel** for data exploration
-- **PowerBI** for data visualization
+This retail store interested in understanding its sales performance. With the use of 3 analytic tools to analyze the sales data.
 
-By leveraging SQL for data preparation and Excel for calculating metrics, this project provides insights into:
+## Tools used 
+*SQL*
+Used for Querying data to derive key insight
+
+*Excel*
+Used for cleaning and formatting,Claculating Matrics
+Used for Inpection and Handling Duplicates
+
+*PowerBI*
+Used for creating an interactive dashboard to visualize the insights
+
+ this project provides insights into:
 - Customer behavior
 - Product success
 - Regional sales performance
