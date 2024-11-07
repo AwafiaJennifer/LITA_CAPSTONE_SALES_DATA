@@ -18,7 +18,7 @@ This retail store interested in understanding its sales performance. With the us
 
 - PowerBI:Used for creating an interactive dashboard to visualize the insights
 
- this project provides insights into:
+ this tools provides insights into:
 - Customer behavior
 - Product success
 - Regional sales performance
@@ -29,7 +29,7 @@ This retail store interested in understanding its sales performance. With the us
 - **Excel** was used to create Pivot Tables for various insights on the sales data.
 - The dataset was converted to a **CSV file** to enable extraction in SQL.
 - **SQL** was then used to extract key insights based on specific business questions.
-- The Analysed Data on **SQL** and **Excel** was exported to **PowerBi** for Visualization of insights
+- The Analysed Data on **SQL** and **Excel** was exported to **PowerBI** for Visualization of insights
 
 ## Data Cleaning
 
