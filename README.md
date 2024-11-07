@@ -1,16 +1,20 @@
 # LITA CAPSTONE PROJECT
 
 ## Project Title: Data_Analysis_of_a_Retail_Sales_Store
-[Project Overview](#Project-Overview
+[Project Overview](#Project-Overview)
 
 [Introduction](#Introduction)
 
 [Tools used](#Tools-used)
 
 [Process](#Process)
+
 [Data Cleaning](#Data-Cleaning)
+
 [Key Insights](#Key-Insights)
+
 [Key Features](#Key-Features)
+
 [Conclusion](#Conclusion)
 
 ## Project Overview
