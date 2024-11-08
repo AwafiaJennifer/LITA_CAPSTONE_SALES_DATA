@@ -16,7 +16,7 @@ Welcome to my Retail Sales Data Analysis project. This report details the analys
 
 ## Introduction
 
-This retail store was interested in understanding its sales performance. The analysis was carried out using three analytic tools to explore the sales data.
+This retail store was interested in understanding its sales performance. The analysis was carried out using three analytic tool to explore the sales data.
 
 ## Process
 
@@ -39,7 +39,7 @@ This retail store was interested in understanding its sales performance. The ana
 ### SQL
 Used for querying data to derive key insights.
 
-Example SQL queries:
+Example of SQL queries:
 - **Total sales for each product category**:
     ```sql
     SELECT 
