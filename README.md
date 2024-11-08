@@ -1,5 +1,4 @@
 # LITA CAPSTONE PROJECT
-This is where I documented my first project given to me by LITA
 
 ## Project Title: Data_Analysis_of_a_Retail_Sales_Store
 
