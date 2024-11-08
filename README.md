@@ -1,5 +1,5 @@
 # LITA CAPSTONE PROJECT
-This is my first project given to me by The Incubator Hub
+This is where I documented my first project given to me by LITA
 
 ## Project Title: Data_Analysis_of_a_Retail_Sales_Store
 
