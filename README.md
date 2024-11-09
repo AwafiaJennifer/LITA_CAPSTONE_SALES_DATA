@@ -34,7 +34,7 @@ This retail store was interested in understanding its sales performance. The ana
 - Pivot Tables were created, and a sales report was also generated.
 
 ![Screenshot (6)](https://github.com/user-attachments/assets/1a6a870f-58b2-4dbd-b833-c562fa00bf79)
-![Screenshot (8)](https://github.com/user-attachments/assets/79108aa0-7054-4bb1-a9b1-398141e0ebe9)
+![screenshot for report](https://github.com/user-attachments/assets/3b5563ce-557e-4121-bf53-ebed1efcdd1f)
 
 ### SQL
 Used for querying data to derive key insights.
