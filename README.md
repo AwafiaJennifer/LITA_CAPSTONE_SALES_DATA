@@ -4,8 +4,8 @@
 
 - [Project Overview](#Project-Overview)
 - [Introduction](#Introduction)
-- [Tools used](#Tools-used)
 - [Process](#Process)
+- - [Tools used](#Tools-used)
 - [Key Insights](#Key-Insights)
 - [Key Features](#Key-Features)
 - [Conclusion](#Conclusion)
