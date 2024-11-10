@@ -5,7 +5,7 @@
 - [Project Overview](#Project-Overview)
 - [Introduction](#Introduction)
 - [Process](#Process)
-- - [Tools used](#Tools-used)
+- [Tools used](#Tools-used)
 - [Key Insights](#Key-Insights)
 - [Key Features](#Key-Features)
 - [Conclusion](#Conclusion)
