@@ -33,7 +33,8 @@ This retail store was interested in understanding its sales performance. The ana
 - Used for inspection and handling duplicates.
 - Pivot Tables were created, and a sales report was also generated.
 
-![Screenshot (6)](https://github.com/user-attachments/assets/1a6a870f-58b2-4dbd-b833-c562fa00bf79)
+![Screenshot (12)](https://github.com/user-attachments/assets/133a20ed-e36c-4ccf-a4dc-030b84ae7640)
+
 ![screenshot for report](https://github.com/user-attachments/assets/3b5563ce-557e-4121-bf53-ebed1efcdd1f)
 
 ### SQL
@@ -164,7 +165,8 @@ This tool provides insights into:
 - Product success
 - Regional sales performance
 
-![Screenshot (29)](https://github.com/user-attachments/assets/2fe753be-1acb-4925-a0f4-3d00caecfa54)
+![Screenshot (31)](https://github.com/user-attachments/assets/123b9257-c2d8-49cb-babd-c0376f8bc145)
+
 ![Screenshot (30)](https://github.com/user-attachments/assets/bc7e9b28-0240-4a32-b214-77265fd1161e)
 
 
